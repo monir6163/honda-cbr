@@ -1,0 +1,43 @@
+/* common style  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.mb-5 {
+    margin-bottom: 6rem!important;
+}
+/* header banner style  */
+.banner-bg{
+    background-color: #264653;
+}
+#btn{
+    background-color: #E76F51;
+}
+/* featured bike style  */
+#scale{
+    filter: grayscale(100%);
+}
+/* happy client  */
+.happy, .faq{
+    color: #0A0826;
+}
+.client, .qs{
+    color: #E76F51;
+}
+.star{
+    color: #E77C40;
+}
+.card-text{
+    color: #6C6C6C;
+}
+.cart-title{
+    color: #252B42;
+}
+/* faq style  */
+.accordion-button{
+    color: #383838;
+    font-family: 'Inter', sans-serif;
+}
+.accordion-body{
+    color: #7E848C;
+    font-family: 'Inter', sans-serif;
+}
