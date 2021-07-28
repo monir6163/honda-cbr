@@ -6,7 +6,7 @@ body{
     margin-bottom: 6rem!important;
 }
 /* header banner style  */
-.banner-bg{
+.banner-bg, .view-bg{
     background-color: #264653;
 }
 #btn{
@@ -20,7 +20,7 @@ body{
 .happy, .faq{
     color: #0A0826;
 }
-.client, .qs{
+.client, .qs, .honda{
     color: #E76F51;
 }
 .star{
