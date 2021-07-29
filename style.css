@@ -16,6 +16,17 @@ body{
 #scale{
     filter: grayscale(100%);
 }
+/* latest news */
+#btn-other{
+    color:#E76F51;
+    border:1px solid#E76F51;
+    background-color: #fff;
+}
+#btn-other:hover{
+    color: #fff;
+    border:1px solid#E76F51;
+    background-color: #E76F51;
+}
 /* happy client  */
 .happy, .faq{
     color: #0A0826;
